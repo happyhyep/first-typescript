@@ -20,7 +20,7 @@ let animal: Animal = {
 }
 
 let dog: Dog = {
-    name: "돌돌이",
+    name: "돌돌이", 
     color: "brown",
     breed: "진도",
 }
