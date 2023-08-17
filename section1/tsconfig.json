@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ES5" //컴파일 결과 생성되는 자바스크립트의 버전이 ES5버전
+  },
+  "include": ["src"] //src 디렉토리 안에 있는 모든 파일을 컴파일하도록 함 
+}

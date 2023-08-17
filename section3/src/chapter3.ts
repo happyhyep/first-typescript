@@ -28,4 +28,4 @@ let dog: Dog = {
 animal = dog;
 dog = animal;
 //animal이 dog보다 슈퍼타입
-//추가 속성이 없는(조건이 적은) 객체가 슈퍼타입이 됨
+//추가 속성이 없는(조건이 적은) 객체가 슈퍼타입이 됨 

@@ -11,6 +11,7 @@ num2 = 0.234;
 num3.toUpperCase();
 //toUpperCase()는 첫글자를 대문자로 바꿔주는 함수
 num4.toFixed();
+
 //toFixed(p)는 p만큼 소수점 이하의 자리수를 정확하게 갖는 문자열로 반환
 
 
